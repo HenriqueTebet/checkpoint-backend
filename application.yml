@@ -13,6 +13,5 @@ management:
 info:
   author: Henrique M. Tebet
   mail: henrique.empresa53@outlook.com
-server:
-  port: ${PORT:9999}
+  
 message: Generic
